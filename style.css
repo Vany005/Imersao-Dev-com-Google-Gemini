@@ -21,6 +21,9 @@ h1 {
     color: #ff9102; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
+    
+    text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
+      
 }
 
 /* Estiliza as seções da página */
@@ -75,7 +78,7 @@ section button:hover {
 
 /* Estiliza cada item de resultado */
 .item-resultado {
-    background: #FFFFFF; /* Cor de fundo dos itens */
+    background: #ffffffc0; /* Cor de fundo dos itens */
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
