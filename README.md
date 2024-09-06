@@ -15,5 +15,6 @@ alguns alerts em javaScript, onde informa algumas palavras chaves que pode ser d
 digitar algum filme ou uma outra palavra que não esteja disponivel . 
 Entendo que possa estar um pouco difícil para ler devido a cor, mas isso logo estara ajustado</p>
 
-![site](https://github.com/user-attachments/assets/65868734-3acd-475a-826b-029dc53bfe26)
+![palavras](https://github.com/user-attachments/assets/adaa50ce-2fc7-4ad8-ad0c-c037361fe9b5)
+
 
