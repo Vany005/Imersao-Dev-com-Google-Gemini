@@ -110,7 +110,7 @@ section button:hover {
 
 /* Estiliza o rodapé da página */
 footer {
-    background-color: #fc7d06; /* Cor de fundo do rodapé */
+    background-color: #e67914; /* Cor de fundo do rodapé */
     color: #45474B; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     padding: 0; /* Espaçamento interno */
@@ -171,3 +171,48 @@ footer {
         font-size: 0.9rem; /* Tamanho da fonte do rodapé em telas pequenas */
     }
 }
+
+.popup {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    height: 200px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #F5F7F8;
+    background-color: #0f070bc0; /* Cor de fundo do pop-up */
+    padding: 30px; /* Espaçamento interno */
+    border-radius: 5px; /* Borda arredondada */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Sombra */
+    width: 300px; /* Largura do pop-up */
+    margin: 0 auto; /* Centralizar o pop-up na página */
+    z-index: 9999; /*define em qual camada o elemento estará. */
+    
+  }
+
+  #buttonCiente{
+    font-size: 16px;
+    background-color: #b14545; /* Cor de fundo do botão */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 30px;
+    padding: left 10px;
+    padding-right: 10px;
+    
+  }
+  .popup i {
+    
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  
+  }
+
+
+  
