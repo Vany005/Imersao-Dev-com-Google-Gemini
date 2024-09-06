@@ -32,7 +32,27 @@ de cada acontecimento</p>
 ----
 ![mutter](https://github.com/user-attachments/assets/7af810e1-03d7-4622-9866-df0f494066c2)
 
+<h1> 📼Todos os filmes/casos mencionados no site</h1>
+<lo>
+  <li> Lisa Mcvey
+</li>
+  <li>Natasha Kumpusch</li>
+  <li>Jeffrey Dahmer</li>
+  <li>Dee Dee e Gipsy Rose</li>
+  <li>Ted Bundy</li>
+  <li>Os Cinco do Central Park</li>
+  <li>Anna Delvey</li>
+  <li>Marianne Bachmeier</li>
+  <li>A Fera da Penha</li>
+<lo>
 
+<h1> 🛠️Futuras Melhorias</h1>
+<lo>
+  <li>Desenvolver todas as demais páginas e acrescentar mais filmes</li>
+  <li>Incluir um filtro ou menu com categorias de Livro, podcast, canais do youtube, que aborda assuntos semelhantes ou mais detalhes sobre o caso</li>
+  <li>Realizar a responsividade</li>
+  <li>Deixar a nevegação mais dinâmica</li>
+</lo>
 
 
 
