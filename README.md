@@ -25,7 +25,9 @@ de cada acontecimento</p>
 
 
 <p>Ao todo foram adicionados 10 true crimes, entretanto ate o momento os únicos que é possível clicar em mais informações é o da Lisa Mcvey e da Marianne Bachmeier, como mostrado nas imagens abaixo, os demais só é possivel visualizar na tela inicial, nos cards</p>
-![casolisa](https://github.com/user-attachments/assets/e1c042d6-b54f-4ed8-a4cb-a77f75e652a6)
+
+![casolisa](https://github.com/user-attachments/assets/b9478c5a-078a-46d3-8574-10879b8a88ec)
+
 
 ----
 ![mutter](https://github.com/user-attachments/assets/7af810e1-03d7-4622-9866-df0f494066c2)
