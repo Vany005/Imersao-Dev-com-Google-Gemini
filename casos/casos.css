@@ -64,3 +64,9 @@ h1 {
     border-radius: 50%;
 
 }
+
+.button{
+    background-color: rgba(5, 5, 5, 0.205);
+    color: aliceblue;
+    text-decoration: none;
+}
