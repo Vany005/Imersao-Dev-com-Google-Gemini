@@ -54,6 +54,10 @@ de cada acontecimento</p>
   <li>Deixar a nevegação mais dinâmica</li>
 </lo>
 
+<h1>🖥️Tecnologias Utilizadas</h1>
+• HTML5: Estrutura da página.
+• CSS: Estilização da interface
+• JavaScript: Lógica de programação para a criptografia e descriptografia.
 
 
 
