@@ -55,9 +55,9 @@ de cada acontecimento</p>
 </lo>
 
 <h1>🖥️Tecnologias Utilizadas</h1>
-• HTML5: Estrutura da página.
-• CSS: Estilização da interface
-• JavaScript: Lógica de programação para a criptografia e descriptografia.
+• HTML5: Estrutura da página. <br>
+• CSS: Estilização da interface <br>
+• JavaScript: Lógica de programação para as funcionalidades presentes no site
 
 
 
