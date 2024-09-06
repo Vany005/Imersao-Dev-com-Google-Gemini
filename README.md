@@ -20,12 +20,16 @@ Entendo que possa estar um pouco difícil para ler devido a cor, mas isso logo e
 <p>Conforme for realizando a busca irá aparecer esses cards onde consta o nome do filme e a sua sinopse e ao clicar em ''Mais informações'' somos direcionados
 para uma outra página, onde eu mesma optei por desenvolver e nela consta partes do caso real, informações extras, fotos das pessoas reais envolvidas e futuramente também terá um mapa onde mostra a localização
 de cada acontecimento</p>
-![finalização](https://github.com/user-attachments/assets/594830a8-639c-4fcf-bd0a-c9ec0075299b)
+
+![finalização](https://github.com/user-attachments/assets/4afd11cb-8381-45fb-86a4-324e40f10c72)
+
 
 <p>Ao todo foram adicionados 10 true crimes, entretanto ate o momento os únicos que é possível clicar em mais informações é o da Lisa Mcvey e da Marianne Bachmeier, como mostrado nas imagens abaixo, os demais só é possivel visualizar na tela inicial, nos cards</p>
-![casolisa](https://github.com/user-attachments/assets/0566b312-a2c5-4613-a15d-3eaae13c0962)
+![casolisa](https://github.com/user-attachments/assets/e1c042d6-b54f-4ed8-a4cb-a77f75e652a6)
+
 ----
-![mutter](https://github.com/user-attachments/assets/a4370ccc-b5a2-4b02-8f14-ce6c29df21df)
+![mutter](https://github.com/user-attachments/assets/7af810e1-03d7-4622-9866-df0f494066c2)
+
 
 
 
