@@ -1,63 +1,76 @@
-<h1> 🎬 Cine Casos Reais</h1>
-<p>O meu projeto consiste em um site onde aborda filmes baseados em casos reais, mais especificamente true crimes, nele é possivel visualizar algumas correlação
-  entre o acontecimento real e a dramaturgia, claro, desde que sejam tratados de forma totalmente respeitosa e sem secionalíssimo.
-  Se você, assim como eu, é um amante dos filmes de terror ou possui curisiodade sobre true crime, acredito que irá se interessar.
-</p>
+# 🎬 Cine Casos Reais
 
-<h1> ⚙️Desenvolvimento</h1>
-<p>Assim que o usúario acessa o site ele se depara com um poup-up, o comunicando sobre conteúdo sensível e posséveis gatilhos
-e para que ele consiga dar continuidade precisa clicar em ''Estou ciente''</p>
+O **Cine Casos Reais** é um projeto web dedicado a filmes e produções audiovisuais inspirados em **casos reais e true crime**.
 
-![poup-up](https://github.com/user-attachments/assets/399d41b2-c40c-4e04-a606-e82eaec0228a)
+O projeto nasceu durante a **Imersão Dev da Alura em parceria com o Google**, sendo desenvolvido inicialmente em cinco dias como parte do desafio da imersão. Após o evento, decidi continuar evoluindo a ideia como um projeto pessoal.
 
-<p>Após isso, é com essa tela que ele se depara e ja pode iniciar a sua pesquisa, afim de faciliar a busca foram desenvolvidos
-alguns alerts em javaScript, onde informa algumas palavras chaves que pode ser digitadas, como por ex: brasileiro,serie, serial killer, no caso do usúario 
-digitar algum filme ou uma outra palavra que não esteja disponivel . 
-Entendo que possa estar um pouco difícil para ler devido a cor, mas isso logo estara ajustado</p>
+A proposta é criar uma experiência onde pessoas interessadas pelo gênero possam descobrir produções baseadas em acontecimentos reais e conhecer também o contexto por trás das histórias retratadas.
 
-![palavras](https://github.com/user-attachments/assets/adaa50ce-2fc7-4ad8-ad0c-c037361fe9b5)
+> ⚠️ O conteúdo aborda crimes reais e temas sensíveis. O projeto busca tratar os casos de maneira informativa e respeitosa, sem sensacionalismo.
 
-<p>Conforme for realizando a busca irá aparecer esses cards onde consta o nome do filme e a sua sinopse e ao clicar em ''Mais informações'' somos direcionados
-para uma outra página, onde eu mesma optei por desenvolver e nela consta partes do caso real, informações extras, fotos das pessoas reais envolvidas e futuramente também terá um mapa onde mostra a localização
-de cada acontecimento</p>
+## 💡 Sobre o projeto
 
-![finalização](https://github.com/user-attachments/assets/4afd11cb-8381-45fb-86a4-324e40f10c72)
+Ao acessar o site, o usuário encontra inicialmente um aviso sobre **conteúdo sensível**, sendo necessário confirmar que está ciente antes de continuar a navegação.
 
+Após essa etapa, é possível pesquisar pelos conteúdos disponíveis e visualizar cards contendo informações como:
 
-<p> <strong> 🛑Ao todo foram adicionados 10 true crimes, entretanto ate o momento os únicos que é possível clicar em mais informações é o da Lisa Mcvey e da Marianne Bachmeier, como mostrado nas imagens abaixo, os demais só é possivel visualizar na tela inicial, nos cards 🛑</strong> </p>
+* Nome do filme ou produção
+* Sinopse
+* Caso real relacionado
+* Informações adicionais sobre a história
 
-![casolisa](https://github.com/user-attachments/assets/b9478c5a-078a-46d3-8574-10879b8a88ec)
+Alguns conteúdos também possuem páginas próprias com informações mais detalhadas sobre os acontecimentos reais e as pessoas envolvidas.
 
+## 🔎 Busca
 
-----
-![mutter](https://github.com/user-attachments/assets/7af810e1-03d7-4622-9866-df0f494066c2)
+O projeto possui uma funcionalidade de pesquisa desenvolvida em **JavaScript**, permitindo localizar os conteúdos cadastrados por diferentes palavras-chave e características.
 
-<h1> 📼Todos os filmes/casos mencionados no site</h1>
-<lo>
-  <li> Lisa Mcvey
-</li>
-  <li>Natasha Kumpusch</li>
-  <li>Jeffrey Dahmer</li>
-  <li>Dee Dee e Gipsy Rose</li>
-  <li>Ted Bundy</li>
-  <li>Os Cinco do Central Park</li>
-  <li>Anna Delvey</li>
-  <li>Marianne Bachmeier</li>
-  <li>A Fera da Penha</li>
-<lo>
+Entre os conteúdos atualmente cadastrados estão casos relacionados a:
 
-<h1> 🛠️Futuras Melhorias</h1>
-<lo>
-  <li>Desenvolver todas as demais páginas e acrescentar mais filmes</li>
-  <li>Incluir um filtro ou menu com categorias de Livro, podcast, canais do youtube, que aborda assuntos semelhantes ou mais detalhes sobre o caso</li>
-  <li>Realizar a responsividade</li>
-  <li>Deixar a nevegação mais dinâmica</li>
-</lo>
+* Lisa McVey
+* Natascha Kampusch
+* Jeffrey Dahmer
+* Gypsy Rose e Dee Dee Blanchard
+* Ted Bundy
+* Os Cinco do Central Park
+* Anna Delvey
+* Marianne Bachmeier
+* A Fera da Penha
 
-<h1>🖥️Tecnologias Utilizadas</h1>
-• HTML5: Estrutura da página. <br>
-• CSS: Estilização da interface <br>
-• JavaScript: Lógica de programação para as funcionalidades presentes no site
+## 🛠️ Tecnologias utilizadas
 
+* HTML5
+* CSS3
+* JavaScript
 
+## 🚧 Status
 
+**Projeto em evolução.**
+
+A versão atual representa a primeira etapa do Cine Casos Reais e foi construída principalmente durante a Imersão Dev.
+
+O projeto continuará sendo desenvolvido para melhorar tanto sua interface quanto sua arquitetura e experiência de navegação.
+
+## 🔜 Próximas evoluções
+
+* Modernizar a interface e tornar o layout responsivo
+* Melhorar a experiência de pesquisa e navegação
+* Expandir as páginas individuais dos casos
+* Criar categorias de conteúdo
+* Adicionar novas produções baseadas em casos reais
+* Incluir recomendações de livros
+* Incluir podcasts relacionados a true crime
+* Incluir canais e conteúdos audiovisuais sobre o tema
+* Estruturar uma base própria de conteúdos
+* Evoluir o projeto para integração com back-end
+* Criar uma experiência mais dinâmica para exploração dos casos
+
+## 🌐 Visão do projeto
+
+A ideia é que o Cine Casos Reais evolua de um catálogo de filmes para uma **plataforma temática sobre true crime**, reunindo diferentes formatos de conteúdo em um único espaço.
+
+Filmes, séries, documentários, livros, podcasts e outros materiais poderão ser organizados de acordo com os casos reais relacionados, criando uma experiência de descoberta mais completa para quem se interessa pelo tema.
+
+---
+
+💻 Projeto criado por **Vania Melo** como parte da minha jornada em desenvolvimento web e mantido como projeto pessoal em evolução.
